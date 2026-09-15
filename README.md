@@ -18,6 +18,8 @@ La aplicación permite:
 
 Los datos iniciales se encuentran en `datos/instrumentos.json`.
 
+La aplicación utiliza `app.use(express.json());` como middleware, ya que Express permite interpretar automáticamente los cuerpos de las solicitudes que contienen datos en formato JSON, haciendo posible acceder a ellos mediante `req.body`.
+
 ## Instalación
 
 Clonar el repositorio y acceder a la carpeta del proyecto:
