@@ -22,8 +22,8 @@ Los datos iniciales se encuentran en `datos/instrumentos.json`.
 
 Clonar el repositorio y acceder a la carpeta del proyecto:
 ```bash
-git clone https://github.com/nedaro34/tp-03-api-instrumentos
-cd tp-03-api-instrumentos
+git clone https://github.com/nedaro34/tp-03-api-http-express
+cd tp-03-api-http-express
 ```
 
 Instala las dependencias ejecutando:
