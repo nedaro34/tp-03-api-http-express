@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Guitarra",
+        "familia": "Cuerda",
+        "origen": "España",
+        "descripcion": "Instrumento de cuerda pulsada utilizado en diversos estilos musicales.",
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "nombre": "Piano",
+        "familia": "Cuerda",
+        "origen": "Italia",
+        "descripcion": "Instrumento de teclado cuyas cuerdas son golpeadas por pequeños martillos.",
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "nombre": "Violín",
+        "familia": "Cuerda",
+        "origen": "Italia",
+        "descripcion": "Instrumento de cuatro cuerdas que se toca principalmente utilizando un arco.",
+        "disponible": false
+    },
+    {
+        "id": 4,
+        "nombre": "Flauta",
+        "familia": "Viento",
+        "origen": "Europa",
+        "descripcion": "Instrumento de viento que produce sonido mediante la vibración del aire.",
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "nombre": "Trompeta",
+        "familia": "Viento",
+        "origen": "Europa",
+        "descripcion": "Instrumento de viento metal utilizado en música clásica, jazz y otros géneros.",
+        "disponible": false
+    },
+    {
+        "id": 6,
+        "nombre": "Batería",
+        "familia": "Percusión",
+        "origen": "Estados Unidos",
+        "descripcion": "Conjunto de instrumentos de percusión utilizado principalmente para marcar el ritmo.",
+        "disponible": false
+    }
+]
